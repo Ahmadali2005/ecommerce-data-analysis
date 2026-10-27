@@ -37,7 +37,7 @@ This project provides an end-to-end Exploratory Data Analysis (EDA) and data cle
 ##  How to Run locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Ahmadali2005/ecommerce-data-analysis.git]
+   git clone https://github.com/Ahmadali2005/ecommerce-data-analysis.git
 
 ## Install required dependencies
 
